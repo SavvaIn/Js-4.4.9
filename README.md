@@ -1,12 +1,15 @@
 # Js-4.4.9
 Registration
 =
-![registration](https://github.com/SavvaIn/Js-4.4.9/assets/102657446/3d2d3e58-b3ca-4f2a-bb9b-36d008aad0ff)
+![registration](https://github.com/SavvaIn/Js-4.4.9/assets/102657446/6ae56a54-bb9c-4eb3-9a12-52983fee79ee)
+
 
 Authentication
 =
-![Authentication](https://github.com/SavvaIn/Js-4.4.9/assets/102657446/ccf5cdbf-5fb9-47d5-9d7b-e56a10cf6ce0)
+![Authentication](https://github.com/SavvaIn/Js-4.4.9/assets/102657446/68e72844-6a47-44c0-9067-6b81a994e3a0)
+
 
 GetCurrentUser
 =
-![GetCurrentUser](https://github.com/SavvaIn/Js-4.4.9/assets/102657446/6b9dd504-04a3-409b-950a-626f67002d2d)
+![GetCurrentUser](https://github.com/SavvaIn/Js-4.4.9/assets/102657446/12adbb26-e030-4024-81af-58ae7213e7b1)
+
